@@ -1,0 +1,64 @@
+
+#logo{ width: 139px;
+       height: 34px;
+       object-fit:contain;
+       margin-left: 32px;
+       margin-top: 38px;
+      
+}
+
+h3 {
+  width: 259px;
+  height: 28px;
+  font-size:24px;
+  margin-left: 32px;
+  font-family: helvetica;
+  color: #172333;
+}
+#main {
+  margin:30px 43px 12px 44px
+}
+p {
+    width: 311px;
+    height: 72px;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-left: 32px;
+    color:#414b58;
+    font-family: helvetica;
+
+  
+      }
+
+.final{width: 311px; height: 48px;}
+
+.general {
+ width: 311px;
+ height: 48px;
+ border-radius: 4px;
+ display: flex;
+ justify-content: space-between;
+ padding-right: 16px;
+ padding-left:24px;
+ margin-left: 32px;
+ margin-right: 32px;
+ font-family: helvetica;
+}
+
+
+.number{
+  background-color: #ff4d00; 
+}
+.facebook{
+  background-color:#3c5a99 ;
+}
+.gmail{
+  color: #172333;
+  background-color: #ffffff;
+   margin-top: 24px;
+}
+.final{color:#ff4d00;
+       width: 375px;
+       background-color: #ffffff;
+
+}
